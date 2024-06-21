@@ -1,0 +1,11 @@
+R G B Y W g X
+B Y W g X R G
+g X R G B Y W
+Y W g X R G B
+G W W W W X R
+X W W B Y W g
+W g X R G B Y
+
+3 1
+W
+R
